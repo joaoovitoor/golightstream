@@ -1,0 +1,2693 @@
+[
+{
+ "commit": "adad30a29f98065a9e2b93c12fade0866c29fe7a",
+ "message": "SC-17148 Complete azure devops 5 task",
+ "date": "Mon, 17 Oct 2022 15:47:53 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "483894a306d0b0f7d0f1b402b244c9cf122dfc66",
+ "message": "save with head",
+ "date": "Mon, 17 Oct 2022 13:45:58 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "6b3c8c641d79ad01e0fe9a4ed888057e44fc46ec",
+ "message": "dont save in file",
+ "date": "Mon, 17 Oct 2022 12:28:03 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "77850324803b905ab7644aecfe16e67c8d4636f2",
+ "message": "filtered in right file",
+ "date": "Mon, 17 Oct 2022 12:21:09 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "3b9ecf665d5856494827e1ff8e909f89bca18ccf",
+ "message": "sending only filtered",
+ "date": "Mon, 17 Oct 2022 11:54:34 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "4e7ebbc3fe6f956d029559f8f6be886c12933de0",
+ "message": "add another stages",
+ "date": "Mon, 17 Oct 2022 11:51:45 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "5f411d3f1ecd86f7430ce07208d64d8e85158859",
+ "message": "sending filteres commits",
+ "date": "Mon, 17 Oct 2022 11:50:55 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b0788bc146b7422dcbddf6f22675f954af901dec",
+ "message": "fix DisplayName",
+ "date": "Mon, 17 Oct 2022 11:49:23 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b31f633bf3fba68266ae16469942bc6e8e13e21c",
+ "message": "working commit hash",
+ "date": "Mon, 17 Oct 2022 11:48:24 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "4c667673a4eff8b92fd14405c5fc635dab05dc2f",
+ "message": "save hash working",
+ "date": "Mon, 17 Oct 2022 11:45:58 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "f9f9235efe802680d8cb0380a9c95fbb8c1f8871",
+ "message": "change call variable",
+ "date": "Mon, 17 Oct 2022 11:45:05 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "566b09a4d5aa7be2bcff7c360bf2a755e5260502",
+ "message": "remove send",
+ "date": "Mon, 17 Oct 2022 11:42:57 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "a57aa4316b7c259e7656e885ee16c785470d8beb",
+ "message": "testing var",
+ "date": "Mon, 17 Oct 2022 11:41:13 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "2c925ad2cfd942a2cfe2d94899348efe461e66a4",
+ "message": "change message",
+ "date": "Mon, 17 Oct 2022 11:36:31 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "19a247a8f769c94ec1110132e17499eb48d83fcb",
+ "message": "changes",
+ "date": "Mon, 17 Oct 2022 11:23:54 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "4e979e87099e67e4e0ff69aff571b56070305107",
+ "message": "return data",
+ "date": "Mon, 17 Oct 2022 11:04:26 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "8131a075e5a171161172440e1dd890b65596c8a5",
+ "message": "try to retrieve var",
+ "date": "Mon, 17 Oct 2022 10:57:13 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "e26d30fbe12c2d0ceba1c8bede3ce7c89a2713ec",
+ "message": "working node",
+ "date": "Mon, 17 Oct 2022 10:55:08 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "f61a67452bc50a8cf59c5e1af2a01f28e6c5e898",
+ "message": "add node run out",
+ "date": "Mon, 17 Oct 2022 10:53:47 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "ece11c0a2bf30b62c420dd91b362e01551c3bbb6",
+ "message": "change node scope",
+ "date": "Mon, 17 Oct 2022 10:52:37 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "f9572507af01e5f5133c8e0ec544669d92cec037",
+ "message": "change var name",
+ "date": "Mon, 17 Oct 2022 10:51:11 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "bb5bd17f29910dc52d9d837f973326e051fd4caa",
+ "message": "change scope var",
+ "date": "Mon, 17 Oct 2022 10:50:10 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "033745f30abf89a3e698a5b4ed9030e9a6bb1840",
+ "message": "echo gitlog",
+ "date": "Mon, 17 Oct 2022 10:49:42 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "3c0eb853169ea411c2a4b165bccc8f69bbf2890e",
+ "message": "add",
+ "date": "Mon, 17 Oct 2022 10:48:32 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "f40da7ae15855d3bc4a3f87c07324879903b8fd5",
+ "message": "change workspace",
+ "date": "Mon, 17 Oct 2022 10:48:16 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "fb486c913ceb176ff4f56c7187b976909892340c",
+ "message": "add echo",
+ "date": "Mon, 17 Oct 2022 10:46:09 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "cbafb8449688294d648cd6271e918c3cfa8da6df",
+ "message": "add stdout",
+ "date": "Mon, 17 Oct 2022 10:44:14 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "1747b5dfc9bc6e9931ff9792365138963cef4622",
+ "message": "declare variable",
+ "date": "Mon, 17 Oct 2022 10:40:58 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "d676a0922ccd463eb951acff0e2ec823ac1a7076",
+ "message": "put as return",
+ "date": "Mon, 17 Oct 2022 10:38:54 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "7437a4d5d7ae44f6e8f3148cc5134ae2c325846c",
+ "message": "expect var",
+ "date": "Mon, 17 Oct 2022 10:32:47 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "01d353dabd6d37cb1e36f656aa8ee6007f8162cd",
+ "message": "save changes",
+ "date": "Mon, 17 Oct 2022 10:24:24 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "97e370d0a0d57aac1701f30f643363c6fd785854",
+ "message": "testing retrieve var",
+ "date": "Mon, 17 Oct 2022 10:21:51 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "e7d9b37ff830862590fcdc407f70710fffcd3e2d",
+ "message": "save commitHash from endpoint",
+ "date": "Fri, 14 Oct 2022 19:00:40 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "eba96bc35a8520c4409423eecdfc6b8ce4c2ae8f",
+ "message": "testing curl",
+ "date": "Fri, 14 Oct 2022 16:45:59 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "3aadffa18df2389a9ca4b0188b2b80f9d71293dc",
+ "message": "Update pipeline-devops5.yml for Azure Pipelines",
+ "date": "Fri, 14 Oct 2022 13:42:09 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "db569e8a23baf541f2b92c2f9dbef8d709acc975",
+ "message": "add - checkout: self",
+ "date": "Fri, 14 Oct 2022 13:40:08 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "4c7ca095b80c297389db2cf78025c85d98c6fefc",
+ "message": "change folder",
+ "date": "Fri, 14 Oct 2022 12:37:15 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "5e77cb4f94c7cbc739a490512a80ce40a693300b",
+ "message": "change yml folder",
+ "date": "Fri, 14 Oct 2022 11:18:32 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "8c4cc85e25095e7630771e519ddde7477c133403",
+ "message": "change manifests call",
+ "date": "Fri, 14 Oct 2022 11:05:59 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "372ee39baa040e72dcc15b8219c770f213e0d375",
+ "message": "add strategy",
+ "date": "Fri, 14 Oct 2022 10:44:09 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "2d6a6cae31a5663a2717814f010a5ecc7e84c1e4",
+ "message": "remove steps from environment",
+ "date": "Fri, 14 Oct 2022 10:42:05 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "079a0f00035a1ac09dd6a5df9265744a925054ae",
+ "message": "change job do deployment",
+ "date": "Fri, 14 Oct 2022 10:40:24 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "acf8d1734e347e18d6cdb750991d7b879b4f72c0",
+ "message": "add approvals",
+ "date": "Fri, 14 Oct 2022 10:38:12 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "de2cad3abd86fd9de4cb079de3be3d077661fc13",
+ "message": "change envVar staging to staging",
+ "date": "Thu, 13 Oct 2022 17:16:52 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "0d380391e3a3b7a0d4632372fc614f94c870e5b7",
+ "message": "working with staging and production file",
+ "date": "Thu, 13 Oct 2022 17:04:02 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "e88cae80d3dd29adb90154b7268a8200699bd03d",
+ "message": "not working stage",
+ "date": "Thu, 13 Oct 2022 16:59:01 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "968aa64b15aed2c1ad2d7da563209b4c17c7d0fc",
+ "message": "remove production",
+ "date": "Thu, 13 Oct 2022 16:48:51 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "6d2a416933660323c0c8e8a17dac1b442e953ddf",
+ "message": "add multiple environments",
+ "date": "Thu, 13 Oct 2022 16:42:39 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "5fe95dec0e1beba66c7c4af7b629236166a5c863",
+ "message": "change .dockerfile to folder devops5",
+ "date": "Thu, 13 Oct 2022 16:37:12 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "5a8787c4b6ff7e3fc2629bdee04b8d52ecbbd823",
+ "message": "change envvar",
+ "date": "Thu, 13 Oct 2022 16:31:46 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b3adb94d0ee25db2b6f0861271ee4808d17ce2b9",
+ "message": "return namespace to joao-test",
+ "date": "Thu, 13 Oct 2022 16:28:26 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b5292ebde4583b6bc0e6c6785ff36da79fbbda06",
+ "message": "rename file yaml to yml",
+ "date": "Thu, 13 Oct 2022 16:17:54 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b4dcf721d51db5122b13ddad0fc3243dee96c5ac",
+ "message": "change folder to devops5",
+ "date": "Thu, 13 Oct 2022 16:15:40 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "1126075f2d9e59d4821fd0993e72245c2fca7a50",
+ "message": "devops5 working with production.yml",
+ "date": "Thu, 13 Oct 2022 16:13:02 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "ecc0c410c8ab4b30a875aec11094bafa0463a2ab",
+ "message": "update service",
+ "date": "Thu, 13 Oct 2022 15:57:19 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "913f192a9be93ab662552ac8f9a1cbb42efee4ca",
+ "message": "add production do connection",
+ "date": "Thu, 13 Oct 2022 15:40:59 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "735bbbeecde53dc9c352e043f6e101e03272b609",
+ "message": "add production environment",
+ "date": "Thu, 13 Oct 2022 15:38:25 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "8f67c5ce126a4a39950f9db753f762d2b328703e",
+ "message": "add pipeline devops5",
+ "date": "Thu, 13 Oct 2022 13:44:05 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "c419f721c1a94ab19d4bb27fd2dd4445fcdd30d4",
+ "message": "Update pipeline-devops1.yml for Azure Pipelines",
+ "date": "Thu, 13 Oct 2022 13:39:19 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "b441d58c0740abad0ce2ab71e8fbd1916dae6c38",
+ "message": "add stages",
+ "date": "Tue, 11 Oct 2022 14:43:03 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "a2f6473f470b5ef13c82361ae96cf1263d2e25c4",
+ "message": "adding dependsOn",
+ "date": "Tue, 11 Oct 2022 14:32:45 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "c452d0e026b1b9263f936855b88a3819f85d2821",
+ "message": "split jobs",
+ "date": "Tue, 11 Oct 2022 14:27:34 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "3e3fac7240617c3364d4624ba6fd83d779c234e0",
+ "message": "Putting environment var in uppercase",
+ "date": "Tue, 11 Oct 2022 11:55:02 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "e62555cc712ed1e2314ddebbeb44898a2468c985",
+ "message": "checking environment vars",
+ "date": "Tue, 11 Oct 2022 11:52:30 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "af8734a89254c57734af8e256546d43f8d24a609",
+ "message": "add buildNumber",
+ "date": "Tue, 11 Oct 2022 11:50:08 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "70e5516c6fc89bca4a5c7652d6ba2c3ec7d8b2fa",
+ "message": "Put tag as a environment var",
+ "date": "Tue, 11 Oct 2022 11:47:14 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "0103502fefe0713b2f448baf634b07780b68f9c8",
+ "message": "add job link",
+ "date": "Tue, 11 Oct 2022 11:42:38 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "331f2aba804b407424db20df8136dcb9e5ae2814",
+ "message": "working with variables in list",
+ "date": "Tue, 11 Oct 2022 11:36:14 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "12843a9696372762bf32d98b04128a6694e73902",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Tue, 11 Oct 2022 11:27:31 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "71ea144d4375a071d345fa156f7501ec6be3cfb6",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Tue, 11 Oct 2022 11:16:06 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "b35769f618f9f7b7bf175b264152704fa8a2448e",
+ "message": "remove console.log",
+ "date": "Mon, 10 Oct 2022 16:19:32 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "5ae6f18bfc4447eb1efc278d7792588ef752f406",
+ "message": "put vars in another place",
+ "date": "Mon, 10 Oct 2022 16:15:44 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "da36babd263e4e5118c28e3666b8c0c73efa3aec",
+ "message": "retrieve SLACKENDPOINT var",
+ "date": "Mon, 10 Oct 2022 16:12:19 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "bcd2373a1d3a01138b4ac586ac0b23365a4b8c5a",
+ "message": "working url from new group vars",
+ "date": "Mon, 10 Oct 2022 16:08:23 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b9897342ab051b620c6d3def8491d1bfb3490ed9",
+ "message": "change sender",
+ "date": "Mon, 10 Oct 2022 16:04:53 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "2c286d36cc978e57a2e7a2429c505764e7b4f23b",
+ "message": "change file folder",
+ "date": "Mon, 10 Oct 2022 15:56:01 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "ab0ed6191788b7d26a7a8fe3babec40c245166aa",
+ "message": "same layout as old",
+ "date": "Mon, 10 Oct 2022 15:39:33 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "5649d87cb922ee3ac76d1ddb853b2bd082693a09",
+ "message": "decrease number of blocks",
+ "date": "Mon, 10 Oct 2022 15:37:37 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "20af2a91c4d1f3e14ec23ceed52f86e098db966f",
+ "message": "change folder call",
+ "date": "Mon, 10 Oct 2022 15:34:18 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "80f90054b3d6cae53dc380a5d368a727730e53b9",
+ "message": "putting 4 in folder name",
+ "date": "Mon, 10 Oct 2022 15:31:17 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "978ea38c53069f0d4192173bfbd838ee084c0619",
+ "message": "change folder",
+ "date": "Mon, 10 Oct 2022 15:29:32 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "cdf297d5d52fd197ea2060b49f6671bf8ec2f1f7",
+ "message": "add commit with link",
+ "date": "Mon, 10 Oct 2022 15:27:22 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "57606086483f1330844ba80fe4df74493fc96dd6",
+ "message": "change job name",
+ "date": "Mon, 10 Oct 2022 14:51:02 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "5651a04db7ecb873ff417d09d5f9bd7a9f0565c1",
+ "message": "change pipeline devops4",
+ "date": "Mon, 10 Oct 2022 14:47:06 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "07db19efb5cd9a0c7c4349dc3b592979ed45a3ab",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Mon, 10 Oct 2022 14:38:06 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "c18654fc759006cbf5be16a436627c6909e08130",
+ "message": "port string",
+ "date": "Mon, 10 Oct 2022 14:07:28 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "18ae24896d195ad48040fc8fddf7e5594dcf4d1d",
+ "message": "change pipeline",
+ "date": "Mon, 10 Oct 2022 14:05:17 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "dfffb9772a9cdb553fcf0ea47a510a983952e881",
+ "message": "working configmap",
+ "date": "Mon, 10 Oct 2022 14:03:21 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "3c903bf1ddc540d3e0bcd38a5d0cab1b8083d4f0",
+ "message": "freeze values",
+ "date": "Mon, 10 Oct 2022 13:57:46 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "18003b07ebed943fae1efed8cd3e83089e68d0a5",
+ "message": "match namespace joao-test",
+ "date": "Mon, 10 Oct 2022 13:47:09 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "195edd0ae952b478ab5aa4cf94f7d77d0b7857b0",
+ "message": "add configmap",
+ "date": "Mon, 10 Oct 2022 13:45:19 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "2205ff8dd64803c2e5958bede701e125dcb31799",
+ "message": "pass env directly",
+ "date": "Mon, 10 Oct 2022 13:27:00 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b702e4d1ca058eecfe20d2c7e631c7eaa21cd435",
+ "message": "using configmap",
+ "date": "Mon, 10 Oct 2022 12:13:26 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "fc42cf941293766f95fb5d560470c7287098067f",
+ "message": "change method",
+ "date": "Mon, 10 Oct 2022 11:06:51 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "a78388474e63b5d36b98cf448565713bfdd388b7",
+ "message": "change var method",
+ "date": "Mon, 10 Oct 2022 11:02:50 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "22cda5d61268631fd1f81f35d655edc35ab0b819",
+ "message": "put vars in working deployment",
+ "date": "Mon, 10 Oct 2022 10:58:57 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "e470b92885184aef9a7d23dd692a4ffdc68b9893",
+ "message": "put port on service.yml",
+ "date": "Mon, 10 Oct 2022 10:57:05 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "6e2cb8033bc5c3094fc596d0fa11be65dc669425",
+ "message": "retrieve commit working",
+ "date": "Mon, 10 Oct 2022 10:54:27 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "0397efaa34ab13d06643ba61584dc4935d6a1960",
+ "message": "change container",
+ "date": "Mon, 10 Oct 2022 10:50:15 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "e1b8c0d65c1b6f952203f7c45951f0d52a3879f1",
+ "message": "working without vars",
+ "date": "Mon, 10 Oct 2022 10:46:33 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "3092d181e64683758533001888ad892e909314be",
+ "message": "define vars",
+ "date": "Mon, 10 Oct 2022 10:20:10 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "89bbcaee995830dfd0c6b0618d09e454bebaccff",
+ "message": "change port place",
+ "date": "Mon, 10 Oct 2022 10:16:52 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "a64ac51acc6e2ee8fadbdcf064df2d30fad46de7",
+ "message": "add env",
+ "date": "Fri, 7 Oct 2022 18:13:06 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "46a26e7abb2836fed510aed7039eee5e7a0b8bc3",
+ "message": "remove ports",
+ "date": "Fri, 7 Oct 2022 18:07:42 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "aa42fb615a4d40a0c9da1e747fc5693c41c652bb",
+ "message": "change port place",
+ "date": "Fri, 7 Oct 2022 18:05:38 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "621de998af37096c92678746d02e7325fa9d5fad",
+ "message": "spec.ports solve",
+ "date": "Fri, 7 Oct 2022 17:56:25 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "80a5928d72d59ce91a61f2b1a5580e2f977eb06e",
+ "message": "pass vars",
+ "date": "Fri, 7 Oct 2022 17:51:55 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "57c3f925992f132038588b47d063f1ea68093b65",
+ "message": "pass vars",
+ "date": "Fri, 7 Oct 2022 17:49:50 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "e2a628e9ebbc200ab039f38830f04d2fd1d3408d",
+ "message": "define variables in container",
+ "date": "Fri, 7 Oct 2022 17:46:28 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "d4ae7db0f7546170bc7a4744a993d8304c24c929",
+ "message": "save",
+ "date": "Fri, 7 Oct 2022 17:43:37 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "ca6af124e439c7696c819ff5b258b18e9c1b3a88",
+ "message": "changes to work",
+ "date": "Fri, 7 Oct 2022 10:54:43 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "3cabef853a6611926c9c18e9ff598a3d493115ac",
+ "message": "change myapp to test match",
+ "date": "Fri, 7 Oct 2022 10:03:23 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "d22101a4fcc6459415f0a339a76a97cec24182b7",
+ "message": "save port on service and variable",
+ "date": "Fri, 7 Oct 2022 09:36:00 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "5aacd08c202f7901ef37ccf5fc40c14e629194b0",
+ "message": "change port variable",
+ "date": "Fri, 7 Oct 2022 09:26:01 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "d46ad8cf58940ffff559d42aa82689ee9efc9548",
+ "message": "change port variable",
+ "date": "Fri, 7 Oct 2022 09:24:00 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "396d46af432d9cf284f33365ce4dff9049043f6a",
+ "message": "change port variable",
+ "date": "Fri, 7 Oct 2022 09:22:16 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "f9db87f80012d0af9c2d7e61aa00c9a8ce5a0734",
+ "message": "send port variable",
+ "date": "Fri, 7 Oct 2022 09:20:41 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b2d43fb6f65ec47d9c9a6ec746c1c88bf6203da1",
+ "message": "change to commit image var",
+ "date": "Fri, 7 Oct 2022 09:14:52 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "913cc6f0d3254fbd5e93538adba8aec46b55e1cc",
+ "message": "fixed image name",
+ "date": "Fri, 7 Oct 2022 09:11:58 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b95c6e99c9b40bbbd462144239dee68d3bdd9efd",
+ "message": "changing",
+ "date": "Thu, 6 Oct 2022 22:11:36 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "086c923915aac0261cc00463635549889ddced26",
+ "message": "Merge branch 'master' of github.com:golightstream/test-joao",
+ "date": "Thu, 6 Oct 2022 22:06:37 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "03ea62806ae133ce650a83a0f5ea9dff9fa239fb",
+ "message": "fix deployment error",
+ "date": "Thu, 6 Oct 2022 22:06:28 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "acd27b37603e5457de66d417e104630c1a453fd4",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Thu, 6 Oct 2022 22:03:37 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "da6b42935c827d17ae797a62da1ca56f4b7dbd80",
+ "message": "retrieve var values",
+ "date": "Thu, 6 Oct 2022 22:00:08 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "2792eae5eb996e96331f4f57ecba5459350e4aa8",
+ "message": "change variable",
+ "date": "Thu, 6 Oct 2022 21:58:33 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b05dc553351f13bbc1bec1f1981f678feef404ed",
+ "message": "add another type of variable",
+ "date": "Thu, 6 Oct 2022 21:50:16 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "97a0217b2358999276a382196305c32cb4481957",
+ "message": "remove image definition",
+ "date": "Thu, 6 Oct 2022 17:44:10 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "275cc36710ede643bf132abce0c36befb9ff782c",
+ "message": "without variables",
+ "date": "Thu, 6 Oct 2022 17:41:07 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "571e051eb489e50f50008dd19dcda87ac2bafe5e",
+ "message": "using 2 {{}}",
+ "date": "Thu, 6 Oct 2022 17:36:12 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "98d010b729c32b61d9bf87f96ff90baf9a59476c",
+ "message": "change variable type",
+ "date": "Thu, 6 Oct 2022 17:33:17 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b847ec12d9aa2b997633ac41bc63446d69ed56b1",
+ "message": "use variable name",
+ "date": "Thu, 6 Oct 2022 17:29:21 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "f17adf3f437a57d060d31b7ba36accf99daa3d80",
+ "message": "change container image",
+ "date": "Thu, 6 Oct 2022 17:24:36 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "4156c056480d251a6250a8bc1292a694256eb36a",
+ "message": "change variable way",
+ "date": "Thu, 6 Oct 2022 17:21:03 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "c154b5a35a0e6ea8cc7102ff90df28fe7c2cc2a9",
+ "message": "deployment microsoft example image",
+ "date": "Thu, 6 Oct 2022 17:13:42 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "ed2eeed2059b64ccc6d0027eb9907eaf1fa573e8",
+ "message": "change variable",
+ "date": "Thu, 6 Oct 2022 16:58:58 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "0cd882c8e42a0551351b6bf72b44bc1478fc88c1",
+ "message": "remove commas from image name",
+ "date": "Thu, 6 Oct 2022 16:45:08 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "9449c6f474ecf7d97ff1b535d00b94ca5c4967fd",
+ "message": "change namespace",
+ "date": "Thu, 6 Oct 2022 16:38:59 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "8ceb4b5b6330737c922200072504952020cf9b14",
+ "message": "port manual information",
+ "date": "Thu, 6 Oct 2022 16:34:36 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "f75d56fbb3a1afbbc5fccceb7b44288a3ebc2acb",
+ "message": "change port information",
+ "date": "Thu, 6 Oct 2022 16:32:59 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "f0c67b5099d04295a85537f072d11531fa93efcc",
+ "message": "with acr login",
+ "date": "Thu, 6 Oct 2022 16:30:33 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "7b97613177274afcb1a5cc8d1d295798693e7b44",
+ "message": "increase replicas to 1",
+ "date": "Thu, 6 Oct 2022 16:25:35 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "ac3963e705b60346d46ad5b826618533ba9276be",
+ "message": "deployment updated",
+ "date": "Thu, 6 Oct 2022 15:57:43 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "07b6e60af7d6165455bfa0bd37727ef8518a59c9",
+ "message": "add name to metadata",
+ "date": "Thu, 6 Oct 2022 15:43:00 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "2d2c135bac5b2af0b922dfafcfeedbf17aa3e426",
+ "message": "with service.yml and deployment without vars",
+ "date": "Thu, 6 Oct 2022 15:39:23 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "ef60982c44ddb0536fd8456d19511aec5be34ae6",
+ "message": "without variables",
+ "date": "Thu, 6 Oct 2022 13:51:05 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "282defad9650c7a29453a5effbfdcca5d8dd0a08",
+ "message": "add deployment new",
+ "date": "Thu, 6 Oct 2022 13:08:34 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "daceaae2d8a310fb24339ce90f3476ce9a4f516e",
+ "message": "change deployment variable",
+ "date": "Thu, 6 Oct 2022 12:51:34 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "402be6e2ed45cdbbb7db2fcb29fc6012e21b592d",
+ "message": "change deployment variable",
+ "date": "Thu, 6 Oct 2022 12:47:22 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b1e29c3451bae35b1402ec02fb7de3e126f0b2f1",
+ "message": "remove service",
+ "date": "Thu, 6 Oct 2022 12:11:28 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "1e719cc86e6d6c152830dfb93809f0dd8d34d2ef",
+ "message": "changes",
+ "date": "Thu, 6 Oct 2022 12:06:19 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "3733461d07be306a210a7147ebbf1ccf5d4f2a00",
+ "message": "remove commas from containerImage",
+ "date": "Thu, 6 Oct 2022 12:01:49 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "aa18b81b3a85ab51bff2885a95b750b0cd0b7a8b",
+ "message": "change deployment.yml",
+ "date": "Thu, 6 Oct 2022 11:59:16 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "fb22f5fc4fd36df4cff79697916001367c88fb97",
+ "message": "change order",
+ "date": "Thu, 6 Oct 2022 11:55:31 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "09a8a2327069daa55fcda95d76c4fa020da25587",
+ "message": "add namespace to service and deployment",
+ "date": "Wed, 5 Oct 2022 17:45:04 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "119930e65a66fef2239f524ac66507016ae26266",
+ "message": "add namespace to service and deployment",
+ "date": "Wed, 5 Oct 2022 17:42:23 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b861a7466789d8bc29b4d19b074d811569aa53e5",
+ "message": "save namespace",
+ "date": "Wed, 5 Oct 2022 17:38:58 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "9fe02e9fcc656cd2643d216f178a21ae552392d9",
+ "message": "change port call",
+ "date": "Wed, 5 Oct 2022 17:35:01 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "74271f49628928981ed9ce9939e322aefb5f4aba",
+ "message": "changes",
+ "date": "Wed, 5 Oct 2022 17:30:45 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "16e58e9209d7ed6060b6b13d0c7fa45dc32c1dc2",
+ "message": "image without commas",
+ "date": "Wed, 5 Oct 2022 17:26:47 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "151a6e71df3d343004a451c35ec7782f0099efbd",
+ "message": "adding more to containerImage",
+ "date": "Wed, 5 Oct 2022 17:22:05 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "e04052f26b2da06f88f752a39898a4f70e27a439",
+ "message": "test",
+ "date": "Wed, 5 Oct 2022 17:02:16 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "79984d8b4409236e5b05de3e0a22ce4955c04a67",
+ "message": "change containerImage",
+ "date": "Wed, 5 Oct 2022 16:57:05 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "f76a0894303a71bd022bbe6623208e072f53797b",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Wed, 5 Oct 2022 16:55:06 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "d07f7440d18fe590b24c6cfddb9a743de5409148",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Wed, 5 Oct 2022 16:54:47 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "94d9168b5deae3de3f1c1f5637713a9f7404fdfc",
+ "message": "add variable containerName",
+ "date": "Wed, 5 Oct 2022 16:28:28 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "46f29b335c889f2d97835ae967a38837179333ea",
+ "message": "change port sintax",
+ "date": "Wed, 5 Oct 2022 16:19:36 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "dba7b341d94a74cb57d54ae5d5ae1bc95a15502f",
+ "message": "change port",
+ "date": "Wed, 5 Oct 2022 16:18:40 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "85f683d9b6348d7d7de70f207a7a2a4e053cab33",
+ "message": "change literal",
+ "date": "Wed, 5 Oct 2022 16:15:09 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "f01301244ff21dd5339788867877e9a3336a45f0",
+ "message": "change literal",
+ "date": "Wed, 5 Oct 2022 16:07:33 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "fd13f2a3a4866a5084eac02c923f69bd4b3e2228",
+ "message": "literal image string change",
+ "date": "Wed, 5 Oct 2022 15:50:09 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "151831603dfe2b8712d3d4954e3131afc5455431",
+ "message": "literal image string change",
+ "date": "Wed, 5 Oct 2022 15:46:54 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "7f22c94fc19d87040b35b7084deff9a083be1da6",
+ "message": "remove ports from container",
+ "date": "Wed, 5 Oct 2022 15:44:25 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "afee259761330e43f57416443f7048be76be4fbf",
+ "message": "connect to cluster",
+ "date": "Wed, 5 Oct 2022 15:27:37 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "cb3944a6397bbfe2699c971aed73fe361339ca88",
+ "message": "change to inf1lightstreamus2",
+ "date": "Wed, 5 Oct 2022 15:14:32 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "fa10c534e81ca097e3d6e036ff0b309e1beecfef",
+ "message": "include serviceconnection",
+ "date": "Wed, 5 Oct 2022 15:13:31 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "ca4af4ddcda28a9519f510deed3a6ed5cd59518a",
+ "message": "invert order",
+ "date": "Wed, 5 Oct 2022 15:10:22 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "3cdca1cfed88c12c068fe25494a80b32e4b50869",
+ "message": "add service.yml",
+ "date": "Wed, 5 Oct 2022 15:08:16 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "811a0d78dc56c3c678414c64673e96082e322702",
+ "message": "try to work",
+ "date": "Wed, 5 Oct 2022 15:02:15 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "25bcd33630c72545b00b8b1e5ca9b690ad10ae24",
+ "message": "try to work",
+ "date": "Wed, 5 Oct 2022 15:01:40 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "3109aa8eb3ba58fc0622d03fc7b84b22ad14dd1f",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Wed, 5 Oct 2022 14:01:12 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "72dc7fb15f63c9b1e41ce2ae00088b20182787d3",
+ "message": "kubernates",
+ "date": "Wed, 5 Oct 2022 13:55:37 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "db00bf388df3255b9243ea7c87d70579e1479c60",
+ "message": "add deployment.yml",
+ "date": "Wed, 5 Oct 2022 13:51:38 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "d150a156796d2107a91763b2ed3f8b97f753536d",
+ "message": "remove console.log",
+ "date": "Tue, 4 Oct 2022 15:37:28 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "ccc96ec7bd361b4c572ea182e96a5edf6f19b6ed",
+ "message": "update app.js",
+ "date": "Tue, 4 Oct 2022 15:21:55 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "f920b5576105c3a5dc572e7fdbc9d3d96759d89b",
+ "message": "change in app.js",
+ "date": "Tue, 4 Oct 2022 15:12:37 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "627efe5bd8f5865bdf0798bf9f2b8d1b69baadaf",
+ "message": " add process.env. vars",
+ "date": "Tue, 4 Oct 2022 14:23:15 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "024ff69ea79d42b9512d7b0cde1583d97a0f275e",
+ "message": "save changes",
+ "date": "Tue, 4 Oct 2022 14:12:37 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "7e72aac847562913d713044d82b5493080c6893b",
+ "message": "save",
+ "date": "Tue, 4 Oct 2022 14:11:32 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "ad96b2930e2e904cb0cb2ca5c978f38e46fd84db",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Tue, 4 Oct 2022 13:54:19 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "96948e6c0484e702537748cea1acb4d903046bc1",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Tue, 4 Oct 2022 13:48:49 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "9bcb44ce947e2d6f5ceb6f657e9071b58c9b6a3b",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Tue, 4 Oct 2022 13:37:11 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "dcc4879f22b40a0f4107af93a9f306663832e910",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Tue, 4 Oct 2022 13:34:21 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "acd31f634fa3d17a08e00a4586cbd6dab66fe939",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Tue, 4 Oct 2022 13:33:05 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "09c5e48a6b03538392800598fb0db29ce08420bf",
+ "message": "devops4 pipeline",
+ "date": "Tue, 4 Oct 2022 13:22:14 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "232a2e055b091e500ffe3bf1b06cb36a44c6bba0",
+ "message": "pushing the container",
+ "date": "Tue, 4 Oct 2022 13:16:54 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "8f38c72fae5a17f9aea82e0aae704b20d58045d2",
+ "message": "change devops4",
+ "date": "Tue, 4 Oct 2022 13:13:00 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "f9716aedc1b8d27e3afec49e28d2daa831743bea",
+ "message": "save",
+ "date": "Tue, 4 Oct 2022 12:26:48 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "16c7573247e68536fead433967a1ab311519f277",
+ "message": "save",
+ "date": "Tue, 4 Oct 2022 12:26:13 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "86d17ccb44284cba98a64e773ccbcd4579685187",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Tue, 4 Oct 2022 11:55:57 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "5ae3a411151666c1fd21f64c5b110cffb6e7e644",
+ "message": "update devops4",
+ "date": "Tue, 4 Oct 2022 11:51:48 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "e5228361d6888baf4aeca3ac18db63e51f83d87c",
+ "message": "update devops4",
+ "date": "Tue, 4 Oct 2022 11:42:12 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "bc5f2e4a50caabdc00c6f8390039cca9fff3812c",
+ "message": "Update yml file",
+ "date": "Tue, 4 Oct 2022 11:39:27 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "593ee5c858386ab05abd3350c5c92b8a1f72fdd9",
+ "message": "add image to devops4.yml",
+ "date": "Tue, 4 Oct 2022 11:31:07 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "360d7d60d9778f2255a94ad5b1c742f55810bb47",
+ "message": "update app.js port",
+ "date": "Tue, 4 Oct 2022 11:04:04 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "9dc72da7fca701ff30cd7e3ef9d950ba1b433376",
+ "message": "put to work",
+ "date": "Tue, 4 Oct 2022 11:02:55 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "cf128ad2dca582bb456f1a9dd2dad23747cecaa6",
+ "message": "update",
+ "date": "Tue, 4 Oct 2022 10:57:25 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b1f145ec9ebd289b888ee34bae552b66adf68cc3",
+ "message": "Merge branch 'master' of github.com:golightstream/test-joao",
+ "date": "Tue, 4 Oct 2022 10:57:16 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "e1ca5ce0335dac8a78f7e504e7b417abc8439bb9",
+ "message": "update app.js to req.url only equal /",
+ "date": "Tue, 4 Oct 2022 10:54:20 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "81ef584c783a497acefa99b342845ebb02a42264",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Tue, 4 Oct 2022 10:52:45 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "25fd5306909af9f916a1d6d2e54238a3328b0bf7",
+ "message": "change yml",
+ "date": "Tue, 4 Oct 2022 10:45:42 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "631c2aa9193f72947e0fa19114097213a6f073ef",
+ "message": "change variables place",
+ "date": "Tue, 4 Oct 2022 10:42:54 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "3f892a5ab61e76d48300e54e141f4c8ff9b77442",
+ "message": "change variables",
+ "date": "Tue, 4 Oct 2022 10:38:25 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "ca6bb4eef82e56f751bbc687a06db93bf26cb768",
+ "message": "devops4 yml updates",
+ "date": "Tue, 4 Oct 2022 10:36:44 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "f8b7ed98ffdf5aeee5c7960616b1e00e93761521",
+ "message": "try to pass Dockerfile",
+ "date": "Tue, 4 Oct 2022 10:25:13 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "e4ef65044e5b18ec311a190d00a030acda5d392f",
+ "message": "update devops4 yml",
+ "date": "Tue, 4 Oct 2022 09:08:13 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "09e4df0941c68a61e0bb94bce89b6a04b121f978",
+ "message": "add package.json",
+ "date": "Tue, 4 Oct 2022 08:59:33 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "15544a280d7fc54dfd5876fb0853d69708165635",
+ "message": "only trigger master on devops4 task",
+ "date": "Mon, 3 Oct 2022 19:34:57 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "8dcd04240b610da965955e56777732a2c4c18564",
+ "message": "working with master",
+ "date": "Mon, 3 Oct 2022 19:33:35 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "e0f12cfeae9dd581e5d61909596064f30e7f1bf9",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Mon, 3 Oct 2022 19:29:29 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "81147e25adee8ef40623386e1f1411b72d969315",
+ "message": "Set up CI with Azure Pipelines",
+ "date": "Mon, 3 Oct 2022 19:26:18 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "9ff0982848668cdba938330e9604565ce93ae723",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Mon, 3 Oct 2022 17:35:19 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "90b4b71acc40be5bd958c0b56dd3f63478d9e0ef",
+ "message": "Update pipeline-devops4.yml for Azure Pipelines",
+ "date": "Mon, 3 Oct 2022 15:55:26 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "b44857d7e3bd5eadf0a07b5bfe4372532d499ae2",
+ "message": "Set up CI with Azure Pipelines",
+ "date": "Mon, 3 Oct 2022 14:31:18 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "fc67a6bf8cf60aadb6a92c88a9df3301c3ee70d3",
+ "message": "saving devops4 file",
+ "date": "Mon, 3 Oct 2022 14:19:29 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "51090c152751997cdd43d02f5a144e416b2c0639",
+ "message": "add first devops4 things",
+ "date": "Mon, 3 Oct 2022 14:13:24 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "9425aeb96eb3409f0d5fb3189fb59998749e8a0b",
+ "message": "Re-add array syntax under vars",
+ "date": "Fri, 30 Sep 2022 17:33:23 -0500",
+ "author": {
+ "name": "Sami Rageb",
+ "email": "samirageb@users.noreply.github.com"
+  }
+},
+{
+ "commit": "8f9f1252e9e5a1e8e6f0f62c558a175db04f455b",
+ "message": "Remove variable group array ref in yaml",
+ "date": "Fri, 30 Sep 2022 17:24:48 -0500",
+ "author": {
+ "name": "Sami Rageb",
+ "email": "samirageb@users.noreply.github.com"
+  }
+},
+{
+ "commit": "eb737eb0404751e8dbf47603ddc9c401f98c675f",
+ "message": "Update pipeline-devops3.yml with variable group",
+ "date": "Fri, 30 Sep 2022 17:22:54 -0500",
+ "author": {
+ "name": "Sami Rageb",
+ "email": "samirageb@users.noreply.github.com"
+  }
+},
+{
+ "commit": "8bb0b06579bf5977b8ecab1fa0af97a1fe6d0471",
+ "message": "trying to put to work",
+ "date": "Fri, 30 Sep 2022 19:15:29 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "42c34cb462b6c420d571b11adaafabdd6ddff545",
+ "message": "changing to work with variable",
+ "date": "Fri, 30 Sep 2022 19:08:51 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "90e6c5427e279971db5c5de7805af1773aaf2499",
+ "message": "changing to work with variable",
+ "date": "Fri, 30 Sep 2022 19:05:41 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "39651d46573796eb9861eaff6caf9206c844d61a",
+ "message": "saving variable",
+ "date": "Fri, 30 Sep 2022 18:50:56 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "1b193b32ab6ddda106fd51a1dc78b7eefb803561",
+ "message": "working with variable 2",
+ "date": "Fri, 30 Sep 2022 18:43:11 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "c1024d8b8322c389ef591bbca998690eff73ceac",
+ "message": "working with variable",
+ "date": "Fri, 30 Sep 2022 18:41:15 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "6e9eca2e28edff5f1fd5d4598f6d07e30fb2e9db",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 18:40:55 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "c087451f93f2e8e551b886e7a5887cf511ba65b9",
+ "message": "using variable to slack endpoint commas",
+ "date": "Fri, 30 Sep 2022 18:34:03 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "d0cdfcc9414f23cbba18d89dbac1e06e063defca",
+ "message": "using variable to slack endpoint",
+ "date": "Fri, 30 Sep 2022 18:32:15 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "49c189028964431ae5271c55f2082c0c95cbf00d",
+ "message": "Merge branch 'master' of github.com:golightstream/test-joao",
+ "date": "Fri, 30 Sep 2022 18:23:08 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "cc907b24125d12226b9643c9abcbdd17c5ef48e5",
+ "message": "save changes",
+ "date": "Fri, 30 Sep 2022 18:23:04 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "661db4f5525044c28754d75205763280052767c3",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 18:19:55 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "76d1fbea8a853b3102dde82ac1ae22c8df2fa142",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 18:14:32 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "b60c827e1559aaf69f6dc67b63d24cda9861224d",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 18:13:41 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "0722dc3c920192040f5d76f11cbdfda9ffcb4fce",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 18:10:37 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "8f97b3e7b3328cbdd74493973afb74e873e056d0",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 17:59:22 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "8f4556d0a0cea19480402d35b232ce0660b30448",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 17:48:48 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "240145368c4d1da64cb86ee6637ec42fa023cea6",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 17:47:36 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "3349f239fd4829212f14314f0f359efc1e64d1c5",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 17:43:49 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "5b05db17b9476aee216f3e4814f762745b5e6a14",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 17:39:20 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "92a0b396bf0ce08ac1e3d151868f5df26e634007",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 17:38:48 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "1f11c31cd8121b442186cb3df1d21d2562cb20f7",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 17:33:51 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "5b1f4144ccc0b6e3f83ab2a1119a0cdaaefb1263",
+ "message": "changing steps",
+ "date": "Fri, 30 Sep 2022 17:30:18 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "e8c16958e7e27211729adb82613d39e86d452c72",
+ "message": "Merge branch 'master' of github.com:golightstream/test-joao",
+ "date": "Fri, 30 Sep 2022 17:28:40 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "0b6efc4f1c1ece72df7dd42de2d8e1e58d3cd1b1",
+ "message": "almost working devops3",
+ "date": "Fri, 30 Sep 2022 17:26:54 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "48e807b3123dc599a999b1b9abcdd0c9a14cfe92",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 17:23:15 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "0337b86636e5d78e6dcbd26ca4d561dd50356f17",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 17:22:39 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "aa21c2283480d4e6ae6bd34d636f28b3d98874da",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 17:18:48 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "2f5a0d1415c42b3cd80ce37d83e00da78b4a5da4",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 17:16:13 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "a723eaafe9aa0a23be92fe2a1e864e7bfca6ca59",
+ "message": "changing first",
+ "date": "Fri, 30 Sep 2022 17:13:25 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "32b2f62c01101f29072cee9bf8c320d10d72be1e",
+ "message": "put commas",
+ "date": "Fri, 30 Sep 2022 17:11:58 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "c4e18b5d87a0efb101558cbf115a7ef2112fb5f9",
+ "message": "try to make it work",
+ "date": "Fri, 30 Sep 2022 17:10:04 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "49850790648d77fb3bd84417811f0f98ca388f22",
+ "message": "save changes",
+ "date": "Fri, 30 Sep 2022 17:07:46 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "0ee2d795336743cd090c8473c7b43f10baee6eec",
+ "message": "save changes",
+ "date": "Fri, 30 Sep 2022 17:06:37 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "8dbeb1a1a81e4facdac93587eabd8ba94461c357",
+ "message": "Update pipeline-devops3.yml for Azure Pipelines",
+ "date": "Fri, 30 Sep 2022 17:05:38 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "996e8ae52e35533c8994595d0a30cc7e357420e2",
+ "message": "save changes on pipeline-devops3.yml",
+ "date": "Fri, 30 Sep 2022 16:59:55 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "f485abfb1b29b522bc4d3c0923bf7ae688227765",
+ "message": "changing pipeline-devops3.yml",
+ "date": "Fri, 30 Sep 2022 16:33:28 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "7d328c6538d5448eef840b0a3cc0335db152c810",
+ "message": "add pipeline-devops3.yml",
+ "date": "Fri, 30 Sep 2022 16:29:09 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "17a8e268574dfef657ad6440ffc737df5aefd2a0",
+ "message": "organizing pipeline-devops2.yml 2",
+ "date": "Fri, 30 Sep 2022 15:50:30 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "1f7cc4abceb6ca16b7fb2252ef490f6af6c0d913",
+ "message": "organizing pipeline-devops2.yml",
+ "date": "Fri, 30 Sep 2022 15:49:04 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "3a3848f444481a04d82926bb675c39ca50c6b488",
+ "message": "include pipeline-devops1.yml",
+ "date": "Fri, 30 Sep 2022 15:44:52 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "5f196cac6e0a140cf1f42a59ba78d88f4418d6aa",
+ "message": "rename devops2 file",
+ "date": "Fri, 30 Sep 2022 15:40:19 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "5ac1f4ab144f7e8d691ede6be2075c92de13f6cc",
+ "message": "organize folder, pipelines and names",
+ "date": "Fri, 30 Sep 2022 15:38:07 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "39ced8640d93146d1872212d09156c147dce8449",
+ "message": "putting send message in only one post",
+ "date": "Thu, 29 Sep 2022 20:45:47 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "babd402eeed441ee2121d6f7f4b967beb11d2239",
+ "message": "change file.js",
+ "date": "Thu, 29 Sep 2022 20:11:29 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "c0aa409f54619547b3535c584238cbb79986b973",
+ "message": "fix file.js to work with based json git log",
+ "date": "Thu, 29 Sep 2022 17:37:44 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "4495e71261112a84eaf7dcb10335de9654a595a4",
+ "message": "run trigger",
+ "date": "Thu, 29 Sep 2022 17:22:26 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "40186a96a95965f69b07c2c1d3cfb0a1d05739fe",
+ "message": "add file-formated too",
+ "date": "Thu, 29 Sep 2022 15:45:59 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "409311f2392d194e3244e49d9f378c408cef1b6c",
+ "message": "save changes to send message",
+ "date": "Thu, 29 Sep 2022 12:51:07 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "58c91eb3e6c9f9d04c6782845f0739d6c6edd5e8",
+ "message": "try to send message pipeline",
+ "date": "Thu, 29 Sep 2022 12:29:56 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b7be09d4683fd7ad6a98a1aa2b492a2f2b678eba",
+ "message": "change call to archive",
+ "date": "Thu, 29 Sep 2022 09:53:51 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b2340dd8cae8125dc74eecb69273ffcf2f911764",
+ "message": "add file.js and file.txt to pipeline",
+ "date": "Thu, 29 Sep 2022 09:47:24 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "c978aded75cccf67e1b5810387e9679382097335",
+ "message": "Update azure-pipelines.yml for Azure Pipelines",
+ "date": "Wed, 28 Sep 2022 17:28:09 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "9ab215b348751bc936893b6a160166067f3e4a45",
+ "message": "Update azure-pipelines.yml for Azure Pipelines",
+ "date": "Wed, 28 Sep 2022 17:27:52 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "f5cc12b7d4ac67fc046ec9f2b0e24e0d1711630b",
+ "message": "Update azure-pipelines.yml for Azure Pipelines",
+ "date": "Wed, 28 Sep 2022 17:24:59 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "556c633cdbde2610b509d2345455c6ed0bc86d9d",
+ "message": "Update azure-pipelines.yml for Azure Pipelines",
+ "date": "Wed, 28 Sep 2022 17:17:59 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "a89fe32f82c2a5824492dccd1b47cbbc759a60bb",
+ "message": "Update azure-pipelines.yml for Azure Pipelines",
+ "date": "Wed, 28 Sep 2022 17:17:01 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "32430c5ab1534d845d71cf24f5d65c821f9435fc",
+ "message": "changes to run in pipeline",
+ "date": "Wed, 28 Sep 2022 17:10:54 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "b3542eb86bc829e3f779144838a307d76ac20388",
+ "message": "Merge branch 'master' of github.com:golightstream/test-joao",
+ "date": "Wed, 28 Sep 2022 17:01:28 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "6d676db43244f25fe2aa4821ae7e212970a91d86",
+ "message": "change app.js",
+ "date": "Wed, 28 Sep 2022 17:01:20 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "743b55a7fa15ef96eccc0f9862a0ae1e2fb1a016",
+ "message": "Set up CI with Azure Pipelines",
+ "date": "Wed, 28 Sep 2022 16:56:12 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "2f50e132c783d7d6eb2690200b307edbf46a5457",
+ "message": "Set up CI with Azure Pipelines",
+ "date": "Wed, 28 Sep 2022 13:46:00 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "e39d5b0ade91b170e6195bb06634f80e245e6c5c",
+ "message": "create dockerfile",
+ "date": "Wed, 28 Sep 2022 13:41:40 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "abf406d4f956563f517f98daaf7637d8ebc3b7d2",
+ "message": "Update devops2.yml for Azure Pipelines",
+ "date": "Tue, 27 Sep 2022 19:20:26 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "8b3879e9786a0090d484362dc5c60a639fe7fb83",
+ "message": "add build script",
+ "date": "Tue, 27 Sep 2022 19:20:17 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "76780c2b44c713ab0ec5c80cb21da7395ce56b29",
+ "message": "Update devops2.yml for Azure Pipelines",
+ "date": "Tue, 27 Sep 2022 19:01:16 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "bc904b5cdaebe0a9ad7afc1d1dae712176e9218a",
+ "message": "Update devops2.yml for Azure Pipelines",
+ "date": "Tue, 27 Sep 2022 18:55:55 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "5f3ff34b3bc8e388bf4d9549cc4c3d0353ae4794",
+ "message": "Set up CI with Azure Pipelines",
+ "date": "Tue, 27 Sep 2022 18:54:15 -0300",
+ "author": {
+ "name": "João Vitor Ramos Tonolli",
+ "email": "87138236+joaoovitoor@users.noreply.github.com"
+  }
+},
+{
+ "commit": "eae420c6fb187b43ed95616ba718802e7f8dcd67",
+ "message": "remove yaml local",
+ "date": "Tue, 27 Sep 2022 17:03:54 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "aceb341d2c0b124e487cd975405bcc9ebe8a3f72",
+ "message": "rename index.yaml to index.yml",
+ "date": "Tue, 27 Sep 2022 16:30:30 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+},
+{
+ "commit": "99dc5bd4fa5c16621aaee7771d62704a225ce93d",
+ "message": "devops2 commit",
+ "date": "Tue, 27 Sep 2022 16:22:33 -0300",
+ "author": {
+ "name": "joaoovitoor",
+ "email": "joaoovitoor@hotmail.com"
+  }
+}
+]

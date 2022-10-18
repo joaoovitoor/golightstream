@@ -1,0 +1,35 @@
+# Build a Docker image
+# https://docs.microsoft.com/azure/devops/pipelines/languages/docker
+
+trigger:
+- master
+
+resources:
+- repo: self
+
+variables:
+  tag: '$(Build.BuildId)'
+  imageName: 'pipelines-devops2'
+
+stages:
+- stage: Build
+  displayName: Build Docker Image
+  jobs:
+  - job: Build
+    displayName: Build...
+    pool:
+      vmImage: ubuntu-latest
+    steps:
+    - task: Docker@2
+      displayName: Build an image from Dockerfile
+      inputs:
+        command: build
+        repository: $(imageName)
+        dockerfile: '$(Build.SourcesDirectory)/Dockerfile'
+        tags: |
+          $(tag)
+    # Docker
+    - task: CmdLine@2
+      displayName: Running Docker
+      inputs:
+        script: 'docker run $(imageName):$(tag)'

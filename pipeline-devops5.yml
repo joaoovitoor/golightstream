@@ -1,0 +1,93 @@
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+variables:
+  - group: devops4
+  - name: tag
+    value: '$(Build.BuildId)'
+  - name: imageRepository
+    value: 'joao-test'
+  - name: dockerRegistryServiceConnection
+    value: 'inf1lightstreameus2'
+  - name: dockerfilePath
+    value: '$(Build.SourcesDirectory)/devops5/Dockerfile'
+  - name: containerImage
+    value: inf1lightstreameus2.azurecr.io/$(imageRepository):$(tag)
+  - name: commitHash
+    value: ''
+
+stages:
+- stage: 'ACR'
+  displayName: ACR
+
+  jobs:
+  - job: ACR
+    steps:
+    - task: Docker@2
+      inputs:
+        command: buildAndPush
+        repository: $(imageRepository)
+        dockerfile: $(dockerfilePath)
+  
+        containerRegistry: $(dockerRegistryServiceConnection)
+
+- stage: 'DeployKubernetesStaging'
+  displayName: Deploy to Staging
+  jobs:
+  - job: DeployKubernetesStaging
+    steps:
+
+    - task: KubernetesManifest@0
+      displayName: 'Deploy to Staging'
+      inputs:
+        action: deploy
+        kubernetesServiceConnection: staging
+        namespace: joao-test
+        manifests: |
+         $(Build.SourcesDirectory)/devops5/staging.yml
+
+        containers: |
+          $(containerImage)
+
+  
+- stage: 'DeployKubernetesProduction'
+  displayName: Deploy to Production
+  jobs:
+  - deployment: DeployKubernetesProduction
+    environment: Devops5-Production
+    strategy:
+      runOnce:
+        deploy:
+          steps:
+          - checkout: self
+          - task: KubernetesManifest@0
+            displayName: 'Deploy to Production'
+            inputs:
+              action: deploy
+              kubernetesServiceConnection: production
+              namespace: joao-test
+              manifests: |
+                $(Build.SourcesDirectory)/devops5/production.yml
+
+              containers: |
+                $(containerImage)
+
+- stage: 'PostToSlack'
+  displayName: Post to Slack
+  jobs:
+  - job: PostToSlack
+    steps:
+       - script: |
+          echo "##vso[task.setvariable variable=commitHash;]$(node ./devops5/getLastBuild.js)"
+         displayName: 'Get last Successful Commit Hash'
+
+       - script: |
+          git log $(commitHash)..HEAD --pretty=format:'{%n "commit": "%H",%n "message": "%s",%n "date": "%aD",%n "author": {%n "name": "%aN",%n "email": "%aE"%n  }%n},' | sed "$ s/,$//" | sed ':a;N;$!ba;s/\r\n\([^{]\)/\\n\1/g'| awk 'BEGIN { print("[") } { print($0) } END { print("]") }' > gitCommits.txt
+         displayName: 'Saving Git Commits in File gitCommits.txt'
+       
+       - script: | 
+          node gitCommitsToSlackLinks.js
+         displayName: 'Sending Commits to Slack'

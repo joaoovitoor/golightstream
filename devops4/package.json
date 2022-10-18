@@ -1,0 +1,9 @@
+{
+    "name": "devops4",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "build": "echo build efetuado com sucesso"
+    }
+  }
+  

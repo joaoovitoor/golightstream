@@ -1,0 +1,13 @@
+{
+    "name": "devops5",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+        "start": "node app.js",
+        "build": "echo build efetuado com sucesso"
+    },
+    "dependencies": {
+        "fetch": "^1.1.0",
+        "node-fetch": "^3.2.10"
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "devops2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo build efetuado com sucesso",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golightstream/test-joao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/golightstream/test-joao/issues"
+  },
+  "homepage": "https://github.com/golightstream/test-joao#readme",
+  "description": "",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.2.10",
+    "request": "^2.88.2"
+  }
+}

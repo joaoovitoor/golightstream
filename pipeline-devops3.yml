@@ -1,0 +1,27 @@
+#trigger:
+#- master
+
+stages:
+- stage: 'Dependencies'
+  displayName: Dependencies
+  jobs:
+  - job: 'Dependencies'
+    steps:
+    - script: npm install request
+
+- stage: 'Processing'
+  displayName: Processing 
+  jobs:
+  - job: RetrieveCommits
+    variables:
+    - group: joao-group
+    steps:
+       - script: |
+          git log --pretty=format:'{%n "commit": "%H",%n "message": "%s",%n "date": "%aD",%n "author": {%n "name": "%aN",%n "email": "%aE"%n  }%n},' | sed "$ s/,$//" | sed ':a;N;$!ba;s/\r\n\([^{]\)/\\n\1/g'| awk 'BEGIN { print("[") } { print($0) } END { print("]") }' > gitCommits.txt
+         displayName: 'Saving Git Commits in File gitCommits.txt'
+       
+       - script: node gitMessagesRetrieve.js
+         displayName: 'Showing Git Messages'
+
+       - script: node gitCommitsToSlack.js
+         displayName: 'Sending Commits to Slack'

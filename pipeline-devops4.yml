@@ -1,0 +1,66 @@
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+variables:
+  - group: devops4
+  - name: tag
+    value: '$(Build.BuildId)'
+  - name: imageRepository
+    value: 'joao-test'
+  - name: dockerRegistryServiceConnection
+    value: 'inf1lightstreameus2'
+  - name: dockerfilePath
+    value: '$(Build.SourcesDirectory)/devops4/Dockerfile'
+  - name: containerImage
+    value: inf1lightstreameus2.azurecr.io/$(imageRepository):$(tag)
+
+stages:
+- stage: 'ACR'
+  displayName: ACR
+
+  jobs:
+  - job: ACR
+    steps:
+    - task: Docker@2
+      inputs:
+        command: buildAndPush
+        repository: $(imageRepository)
+        dockerfile: $(dockerfilePath)
+  
+        containerRegistry: $(dockerRegistryServiceConnection)
+
+- stage: 'DeployKubernetes'
+  displayName: Deploy to Kubernetes
+  jobs:
+  - job: DeployKubernetes
+    steps:
+
+    - task: KubernetesManifest@0
+      displayName: 'Deploy to Kubernetes cluster'
+      inputs:
+        action: deploy
+        kubernetesServiceConnection: production
+        namespace: joao-test
+        manifests: |
+         $(Build.SourcesDirectory)/devops4/configmaps.yaml
+
+         $(Build.SourcesDirectory)/devops4/service.yml
+         $(Build.SourcesDirectory)/devops4/deployment.yml
+
+        containers: |
+          $(containerImage)
+
+- stage: 'PostToSlack'
+  displayName: Post to Slack
+  jobs:
+  - job: PostToSlack
+    steps:
+       - script: |
+          git log --pretty=format:'{%n "commit": "%H",%n "message": "%s",%n "date": "%aD",%n "author": {%n "name": "%aN",%n "email": "%aE"%n  }%n},' | sed "$ s/,$//" | sed ':a;N;$!ba;s/\r\n\([^{]\)/\\n\1/g'| awk 'BEGIN { print("[") } { print($0) } END { print("]") }' > gitCommits.txt
+         displayName: 'Saving Git Commits in File gitCommits.txt'
+       
+       - script: node gitCommitsToSlackLinks.js
+         displayName: 'Sending Commits to Slack'
